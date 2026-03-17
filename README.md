@@ -123,6 +123,7 @@ V(d) \approx 48.6 \text{ kips}
 # Shear Envelope Visualization
 
 The app generates:
+![Streamlit Output](example_preview.png)
 
 ### Individual diagrams
 - Case 1
